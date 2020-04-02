@@ -53,11 +53,6 @@
     "serve": "gatsby serve",
     "test": "jest --config ./config/jest.config.js"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "**/*.js": [
       "yarn format",
