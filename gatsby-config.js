@@ -11,6 +11,8 @@ module.exports = {
 
       }
     },
+
+
     'gatsby-plugin-react-leaflet'
   ]
 };
