@@ -9,6 +9,7 @@ module.exports = {
         name: `images`,
         path: `${__dirname}/src/assets/images`
       }
+
     },
     'gatsby-plugin-react-leaflet'
   ]
