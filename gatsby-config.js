@@ -10,6 +10,6 @@ module.exports = {
         path: `${__dirname}/src/assets/images`
       }
     },
-    '1gatsby-plugin-react-leaflet'
+    '1gatsby-plugin-react-leaflet2'
   ]
 };
